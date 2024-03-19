@@ -1,0 +1,29 @@
+.style1 {
+    fill: black;
+}
+
+.style2 {
+    fill: yellow;
+}
+
+.style8 {
+
+    fill: yellow;
+
+}
+
+.hexcontainer {
+    height: 100vh;
+    width: 100vw;
+
+}
+
+
+.centerImage {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
